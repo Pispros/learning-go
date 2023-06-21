@@ -1,0 +1,762 @@
+pk,name,latitude,longitude
+9,LaSalle / 90e avenue,45.417294,-73.6443
+10,Métro Angrignon (Lamont /  des Trinitaires),45.44691,-73.60363
+13,Métro de l'Église (Ross / de l'Église),45.462726,-73.565959
+17,Tolhurst / Fleury,45.544149,-73.66752
+33,University / des Pins,45.508203,-73.580112
+38,Métro Vendôme (de Marlowe / de Maisonneuve),45.473868,-73.604538
+43,Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),45.50367,-73.61848
+65,Bel Air / St-Antoine,45.482778,-73.584621
+75,St-Joseph / 8e avenue Lachine,45.43155,-73.67112
+78,8e avenue / Notre-Dame Lachine,45.434898,-73.670819
+79,Victoria / 18e avenue Lachine,45.435996,-73.680111
+84,Parthenais / du Mont-Royal,45.536346,-73.57131
+86,Parc Pratt (Dunlop / Van Horne),45.515007,-73.619788
+89,Darling / Sherbrooke,45.545328,-73.556352
+92,Métro Rosemont (de St-Vallier / Rosemont),45.531783,-73.597793
+99,7e avenue / St-Joseph Rosemont,45.547108,-73.569367
+100,16e avenue / St-Joseph,45.55287,-73.565631
+125,Cité des Arts du Cirque (Paul Boutet / des Regrattiers),45.559872,-73.615541
+126,Rousselot / Jarry,45.550899,-73.62108
+129,de la Salle / Ontario,45.551862,-73.540228
+132,St-Charles / Labonté,45.535266,-73.51398
+135,St-Alexandre / Ste-Catherine,45.505359,-73.567741
+137,Jeanne-d'Arc / Ontario,45.549598,-73.541874
+139,d'Orléans / Hochelaga,45.550768,-73.549427
+141,Marché Maisonneuve,45.553219,-73.539782
+142,Ontario / Sicard,45.556262,-73.537441
+143,de Ville-Marie / Ste-Catherine,45.557921,-73.529147
+144,Ontario / Viau,45.559482,-73.535496
+145,Gauthier / Papineau,45.529666,-73.567336
+146,Gauthier / de Lorimier,45.531674,-73.565413
+147,Gauthier / Parthenais,45.532926,-73.56378
+148,de Bordeaux / Marie-Anne,45.533409,-73.570657
+149,des Érables / Rachel,45.533547,-73.566867
+152,Bercy / Rachel,45.538403,-73.561964
+153,Ste-Catherine / Dezery,45.539385,-73.541
+154,Dézéry / Ontario,45.54111,-73.54755
+155,Métro Préfontaine (Moreau / Hochelaga),45.54178,-73.555714
+156,Valois / Ste-Catherine,45.54523,-73.53725
+157,St-Germain / Hochelaga,45.543699,-73.553673
+158,Aylwin / Ontario,45.544284,-73.54534
+159,Métro Joliette  (Joliette / Hochelaga),45.546907,-73.551557
+161,Nicolet / Sherbrooke,45.549695,-73.554647
+162,Métro Assomption (Chauveau / de l'Assomption),45.569789,-73.548081
+165,Pierre-de-Coubertin / Langelier,45.580315,-73.535314
+166,Métro Langelier (Langelier / Sherbrooke),45.582847,-73.542476
+167,Boyer / du Mont-Royal,45.527432,-73.579917
+168,Calixa-Lavallée / Rachel,45.527795,-73.571939
+169,de Brébeuf / du Mont-Royal,45.529408,-73.578154
+170,de Lanaudière / Marie-Anne,45.529326,-73.574806
+171,Marquette / Rachel,45.529802,-73.57029
+173,Marquette / du Mont-Royal,45.53229,-73.57544
+176,Cartier / St-Joseph,45.535828,-73.57869
+177,de Bordeaux / Gilford,45.53611,-73.576287
+179,Messier / du Mont-Royal,45.537114,-73.571003
+180,Laurier / de Bordeaux,45.537205,-73.579254
+181,Cartier / Masson,45.538021,-73.583524
+182,Chapleau / du Mont-Royal,45.53867,-73.56936
+183,de Bordeaux / Masson,45.538984,-73.582445
+184,Fullum / Gilford,45.539224,-73.573837
+185,Parc des Rapides (LaSalle / 6e avenue),45.429471,-73.593099
+186,LaSalle / Crawford,45.437914,-73.58274
+187,Natatorium (LaSalle / Rolland),45.444547,-73.575091
+188,Bibliothèque de Verdun (Brown / Bannantyne),45.448262,-73.577856
+189,Beatty / de Verdun,45.45073,-73.572575
+190,Métro Monk (Allard / Beaulieu),45.450851,-73.594027
+191,Argyle / Bannantyne,45.453319,-73.576775
+192,Argyle / de Verdun,45.453016,-73.571915
+193,Hamilton / Jolicoeur,45.456355,-73.597557
+194,5e avenue / Bannantyne,45.456365,-73.57614
+196,4e avenue / de Verdun,45.456885,-73.572607
+197,Dubois / Eadie,45.457597,-73.590529
+198,2e avenue / Wellington,45.457893,-73.567528
+199,Métro Verdun (Willibrord / de Verdun),45.459488,-73.572092
+200,Gordon / Wellington,45.461078,-73.567307
+201,Parc St-Paul (Le Caron / Marc-Sauvalle),45.461685,-73.584039
+202,St-Patrick / Briand,45.463397,-73.596436
+203,de l'Église / de Verdun,45.463001,-73.571569
+204,de l'Église / Bannantyne,45.463254,-73.575879
+205,Regina / de Verdun,45.467369,-73.570769
+206,Métro Lasalle (de Rushbrooke / Caisse),45.470696,-73.565422
+208,St-Hubert / Laurier,45.52931,-73.588657
+209,Hélène-Baillargeon / St-Denis,45.52974,-73.59527
+211,de Mentana / Laurier,45.53045,-73.587638
+214,Laurier / de Brébeuf,45.532514,-73.584811
+215,Garnier / St-Joseph,45.532978,-73.581222
+216,de Lanaudière / Laurier,45.533314,-73.583737
+217,Gerry-Boulet / St-Grégoire,45.533735,-73.589307
+218,Marquette / Laurier,45.53543,-73.5822
+221,Métro Crémazie (Crémazie / Lajeunesse),45.546408,-73.638428
+222,Clark / Fleury,45.547581,-73.665234
+223,Émile-Journault / de Chateaubriand,45.549833,-73.640633
+224,Basile-Routhier / Chabanel,45.549868,-73.647657
+225,Métro Sauvé (Berri / Sauvé),45.550692,-73.656367
+226,Jacques-Casault / Christophe-Colomb,45.552123,-73.630103
+229,Métro Henri-Bourassa (Henri-Bourassa / Millen),45.556751,-73.667162
+230,Chambord / Fleury,45.559828,-73.658325
+231,Hamel / Sauvé,45.560762,-73.650561
+232,Francis / Fleury,45.563872,-73.655568
+233,Marquette / Fleury,45.567352,-73.653787
+234,de l'Hôtel-de-Ville / Sherbrooke,45.514565,-73.568407
+235,Square St-Louis (du Square St-Louis / Laval),45.516091,-73.570129
+236,Parc Jeanne-Mance (du Mont-Royal / du Parc),45.517,-73.589
+237,de l'Esplanade / du Mont-Royal,45.518253,-73.588338
+238,Villeneuve / du Parc,45.51829,-73.59235
+239,Roy / St-Denis,45.51908,-73.5727
+240,Berri / Cherrier,45.519088,-73.569509
+241,Laval / Duluth,45.519216,-73.57718
+242,du Mont-Royal / Clark,45.51941,-73.58685
+243,Laval / Rachel,45.520179,-73.579424
+244,Villeneuve / St-Urbain,45.520188,-73.590559
+245,St-André / Cherrier,45.520524,-73.567697
+247,Roy / St-André,45.521564,-73.570367
+248,de Bullion / du Mont-Royal,45.521751,-73.585268
+249,Rivard / Rachel,45.522278,-73.577591
+250,Laval / du Mont-Royal,45.522365,-73.584146
+251,St-Hubert / Duluth,45.522426,-73.574184
+252,Berri / Rachel,45.522719,-73.577204
+253,Beaudry / Sherbrooke,45.523035,-73.565395
+254,du Parc-La Fontaine / Roy,45.522866,-73.568377
+256,Métro Mont-Royal (Rivard / du Mont-Royal),45.524673,-73.58255
+257,Marie-Anne / St-Hubert,45.524683,-73.578897
+258,du Parc-La Fontaine / Duluth,45.524518,-73.571977
+259,Calixa-Lavallée / Sherbrooke,45.52479,-73.56545
+261,Resther / du Mont-Royal,45.525628,-73.581775
+262,de Mentana / Marie-Anne,45.526027,-73.577859
+263,Métro Laurier (Berri / St-Joseph),45.527231,-73.586726
+264,Pontiac / Gilford,45.527009,-73.585766
+265,Émile-Duployé / Sherbrooke,45.527201,-73.564729
+268,Gilford / de Lanaudière,45.532008,-73.580444
+272,Ste-Catherine / Labelle,45.515065,-73.55923
+273,St-André / Ste-Catherine,45.516427,-73.558112
+274,Gare d'autocars de Montréal (Berri / Ontario),45.516897,-73.563949
+277,St-André / Robin,45.518128,-73.561851
+278,St-André / Ontario,45.51889,-73.56353
+279,Montcalm / de Maisonneuve,45.519139,-73.557866
+281,Wolfe / Robin,45.519581,-73.560116
+285,Alexandre-DeSève / Ste-Catherine,45.52123,-73.553861
+286,Logan / de Champlain,45.523194,-73.555843
+288,Plessis / Ontario,45.523492,-73.56073
+289,Métro Papineau (Cartier / Ste-Catherine),45.52353,-73.55199
+292,Jean Langlois / Fullum,45.5265,-73.545753
+293,Dorion / Ontario,45.526991,-73.558212
+294,Logan / Fullum,45.528366,-73.551171
+295,Poupart / Ste-Catherine,45.529002,-73.546199
+296,Larivière / de Lorimier,45.529134,-73.559234
+298,Logan / d'Iberville,45.53057,-73.54913
+299,Poupart / Ontario,45.531939,-73.553439
+302,Métro Frontenac (Ontario / du Havre),45.533706,-73.552179
+303,Hochelaga / Chapleau,45.534453,-73.559652
+304,du Havre / de Rouen,45.534563,-73.554787
+305,Hogan / Ontario,45.535295,-73.55116
+306,Sherbrooke / Frontenac,45.5367,-73.56081
+307,Wurtele / de Rouen,45.537628,-73.553394
+309,University / Milton,45.506511,-73.576669
+310,University / Prince-Arthur,45.507402,-73.578444
+311,Milton / Durocher,45.508141,-73.57493
+312,Aylmer / Prince-Arthur,45.508567,-73.577698
+313,Milton / du Parc,45.509361,-73.573864
+314,Hutchison / Prince-Arthur,45.509759,-73.576107
+315,Ste-Famille / Sherbrooke,45.510072,-73.570752
+316,Prince-Arthur / du Parc,45.51059,-73.57547
+317,Métro St-Laurent (de Maisonneuve / St-Laurent),45.51066,-73.56497
+318,Hutchison / des Pins,45.51069,-73.57805
+321,de l'Hôtel-de-Ville / Ste-Catherine,45.51166,-73.562136
+322,Milton / Clark,45.512541,-73.570677
+323,Prince-Arthur / St-Urbain,45.512587,-73.573739
+325,Ste-Famille / des Pins,45.512832,-73.576888
+326,Clark / Prince-Arthur,45.513303,-73.572961
+327,Sanguinet / de Maisonneuve,45.513405,-73.562594
+328,Guilbault / Clark,45.514108,-73.57523
+329,Metcalfe / St-Catherine,45.500832,-73.572459
+331,Duluth / de l'Esplanade,45.515092,-73.581142
+333,Parc de Bullion (de Bullion / Prince-Arthur),45.515604,-73.572135
+334,Roy / St-Laurent,45.515616,-73.575808
+336,Duluth / St-Laurent,45.516876,-73.57946
+337,de l'Hôtel-de-Ville / Roy,45.517401,-73.574605
+338,Clark / Rachel,45.517354,-73.582129
+339,St-Dominique / Rachel,45.518593,-73.581566
+340,Vallières / St-Laurent,45.518967,-73.583616
+341,U. Concordia - Campus Loyola (Sherbrooke / West Broadway),45.457509,-73.639485
+342,Park Row O / Sherbrooke,45.460729,-73.634073
+343,Benny / Sherbrooke,45.464877,-73.626597
+344,Grand Boulevard / Sherbrooke,45.466569,-73.623295
+346,de la Côte St-Antoine / Royal,45.468927,-73.61987
+347,de Melrose / Sherbrooke,45.46982,-73.616961
+348,de Hampton / de Monkland,45.471179,-73.627002
+349,Marcil / Sherbrooke,45.471743,-73.613924
+350,Harvard / de Monkland,45.474565,-73.624036
+351,de Monkland / Girouard,45.477107,-73.621438
+352,Notre-Dame-de-Grâce / Décarie,45.477353,-73.615372
+354,Métro Snowdon (de Westbury / Queen-Mary),45.485385,-73.628142
+356,Canning / Notre-Dame,45.486319,-73.570233
+357,des Seigneurs / Notre-Dame,45.487723,-73.569083
+358,Métro Georges-Vanier (St-Antoine / Canning),45.4891,-73.57656
+359,Métro Atwater (Atwater / Ste-Catherine),45.489476,-73.584566
+360,Atwater / Sherbrooke,45.491226,-73.58763
+361,Beaucourt / de la Côte-Ste-Catherine,45.491513,-73.633649
+362,Chomedey / de Maisonneuve,45.4918,-73.584006
+364,Lincoln / du Fort,45.493034,-73.583836
+366,St-Marc / Sherbrooke,45.494514,-73.583368
+368,Jean-Brillant / de la Côte-des-Neiges,45.495415,-73.622341
+370,Mackay / de Maisonneuve,45.49683,-73.57913
+373,de Kent / de la Côte-des-Neiges,45.501449,-73.633051
+374,de Soissons / de Darlington,45.506899,-73.623526
+375,Parc Kent (de Kent / Hudson),45.505721,-73.629459
+376,Édouard-Montpetit / de Stirling,45.50723,-73.615085
+377,Wilderton  / Van Horne,45.510142,-73.624752
+378,Tupper / du Fort,45.49123,-73.580782
+379,St-Mathieu / Sherbrooke,45.495789,-73.582596
+381,Crescent / de Maisonneuve,45.498112,-73.577615
+382,Drummond / Ste-Catherine,45.498639,-73.574227
+383,de la Cathédrale / René-Lévesque,45.499191,-73.569421
+384,Cypress / Peel,45.499325,-73.571768
+385,Drummond / de Maisonneuve,45.49947,-73.57591
+386,de la Montagne / Sherbrooke,45.499745,-73.579034
+387,Notre-Dame / Gauvin,45.500105,-73.560199
+388,Métro Peel (de Maisonneuve / Stanley),45.50038,-73.57507
+389,de la Gauchetière / Robert-Bourassa,45.500606,-73.565448
+393,Metcalfe / de Maisonneuve,45.501715,-73.57413
+394,St-Nicolas / Place d'Youville,45.501967,-73.555153
+395,Square Victoria (Viger / du Square-Victoria),45.50206,-73.56295
+396,Union / René-Lévesque,45.50235,-73.566583
+397,St-Jacques / St-Pierre,45.502786,-73.559134
+398,McTavish / Sherbrooke,45.502813,-73.576024
+400,du President-Kennedy / Union,45.505011,-73.572028
+401,St-Antoine / St-François-Xavier,45.504591,-73.559188
+403,Viger / Chenneville,45.505312,-73.560891
+404,Métro Place-d'Armes (Viger / St-Urbain),45.50623,-73.55976
+405,City Councillors / du President-Kennedy,45.506251,-73.571391
+407,St-Urbain / de la Gauchetière,45.507078,-73.561395
+408,Notre-Dame / St-Gabriel,45.507144,-73.555119
+409,du Champ-de-Mars / Gosford,45.509655,-73.554009
+410,Métro Champ-de-Mars (Viger / Sanguinet),45.510351,-73.556508
+411,St-André / St-Antoine,45.514114,-73.552645
+412,Ottawa / William,45.489727,-73.564063
+413,Joseph-Manseau / René-Lévesque,45.491687,-73.576767
+414,Notre-Dame / de la Montagne,45.493029,-73.564818
+418,Métro Lucien-L'Allier  (Lucien l'Allier / Argyle),45.494872,-73.571124
+419,Duke / Brennan,45.495581,-73.553711
+421,de la Commune / King,45.497515,-73.552571
+422,William / St-Henri,45.498919,-73.557254
+425,Labadie / du Parc,45.519895,-73.596827
+427,de l'Esplanade / Fairmount,45.521496,-73.596827
+428,Jeanne-Mance / St-Viateur,45.523027,-73.60184
+429,Waverly / St-Viateur,45.523856,-73.600127
+430,de Bullion / St-Joseph,45.524037,-73.590143
+431,Bernard / Jeanne-Mance,45.524287,-73.604973
+432,Maguire / St-Laurent,45.524628,-73.595811
+433,Hutchison / Van Horne,45.524942,-73.610606
+434,de Gaspé / Fairmount,45.525648,-73.592928
+436,Drolet / Laurier,45.526252,-73.589758
+437,St-Dominique / St-Viateur,45.526557,-73.598276
+438,Maguire / Henri-Julien,45.527041,-73.593471
+439,Waverly / Van Horne,45.527363,-73.607723
+440,Casgrain / St-Viateur,45.527513,-73.598791
+441,de Gaspé / St-Viateur,45.527748,-73.597439
+442,Henri-Julien / du Carmel,45.527839,-73.594821
+443,St-Dominique / Bernard,45.527933,-73.601223
+444,Berlioz / de l'Île des Soeurs,45.459986,-73.543956
+445,Place du Commerce,45.46714,-73.54259
+447,Léa-Roback / Sir-Georges-Etienne-Cartier,45.471669,-73.582644
+448,Jacques-Le Ber / de la Pointe Nord,45.472503,-73.539285
+449,Ste-Émilie / Sir-Georges-Etienne-Cartier,45.472668,-73.58539
+450,Ryde / Charlevoix,45.475743,-73.564601
+451,Métro Place St-Henri (St-Ferdinand / St-Jacques),45.477249,-73.587238
+452,Fortune / Wellington,45.477923,-73.559038
+453,Métro Charlevoix (Centre / Charlevoix),45.478228,-73.569651
+455,Bourgeoys / Favard,45.47993,-73.555921
+456,Ropery / Augustin-Cantin,45.480914,-73.56846
+459,Duvernay / Charlevoix,45.482098,-73.574876
+461,Shearer / Centre,45.483006,-73.562187
+462,Charlevoix / Lionel-Groulx,45.483928,-73.577312
+463,Augustin-Cantin / Shearer,45.484018,-73.563437
+465,Georges-Vanier / Notre-Dame,45.485048,-73.571963
+466,Quesnel / Vinet,45.485889,-73.577514
+467,Guy / Notre-Dame,45.490042,-73.567111
+468,Young / Wellington,45.492825,-73.557978
+469,de la Commune / St-Sulpice,45.504242,-73.55347
+470,de la Commune / Place Jacques-Cartier,45.50761,-73.551836
+471,de la Commune / Berri,45.51086,-73.54983
+472,Rachel / de Brébeuf,45.52689,-73.57264
+474,Métro Acadie (de l'Acadie / Beaumont),45.523575,-73.623443
+477,Métro de la Savane (de Sorel / Bougainville),45.500451,-73.661428
+478,Dollard / Bernard,45.516783,-73.611423
+479,Casgrain / Maguire,45.525933,-73.595253
+480,Jeanne-Mance / Beaubien,45.52765,-73.6123
+481,Alfred Laliberté / de Poutrincourt,45.53308,-73.694597
+482,Chabanel / du Parc,45.538308,-73.654884
+483,Gare Bois-de-Boulogne,45.539726,-73.677165
+484,Laforest / Dudemaine,45.539806,-73.687266
+485,Chabanel / de l'Esplanade,45.540686,-73.653376
+486,Papineau / Émile-Journault,45.559884,-73.633568
+487,16e avenue / Jean-Talon,45.56244,-73.595333
+488,Rosemont / Viau,45.56833,-73.566663
+489,de St-Firmin / Fleury,45.570657,-73.651842
+490,41e avenue / Rosemont,45.57179,-73.564315
+492,de Lisieux / Jean-Talon,45.579349,-73.581681
+496,des Récollets / Martial,45.590892,-73.640617
+499,Liébert / Hochelaga,45.595875,-73.523528
+501,Bélanger / des Galeries d'Anjou,45.597221,-73.56279
+502,William / Robert-Bourassa,45.497165,-73.55933
+504,Gagne / LaSalle,45.422451,-73.601194
+505,Parc Highlands (Highlands / LaSalle),45.426124,-73.657416
+507,Newman / Senkus,45.444043,-73.613752
+508,LaSalle / Godin,45.446934,-73.572199
+509,Elgar / de l'Île-des-Sœurs,45.456823,-73.546804
+510,Hickson / Wellington,45.464892,-73.566998
+511,Grand Boulevard / de Terrebonne,45.470544,-73.63168
+512,Turgeon / Notre-Dame,45.478888,-73.581989
+513,St-Jacques / des Seigneurs,45.489186,-73.5719
+514,des Bassins / du Séminaire,45.490452,-73.560172
+515,Parc Plage,45.502828,-73.527793
+517,Bibliothèque du Boisé (Thimens / Todd),45.504635,-73.704432
+520,Métro du Collège (Cartier / Décarie),45.508439,-73.672965
+521,Thimens / Alexis-Nihon,45.508978,-73.698564
+523,Ste-Croix / Tassé,45.519492,-73.685104
+524,O'Brien / Poirier,45.52246,-73.691564
+525,Casino de Montréal,45.506373,-73.524577
+526,Quai de la navette fluviale,45.513741,-73.538382
+527,Métro Longueuil - Université de Sherbrooke,45.523319,-73.520127
+528,Place Longueuil,45.52841,-73.517166
+529,St-Charles / Montarville,45.533682,-73.515261
+530,Collège Édouard-Montpetit (de Gentilly / de Normandie),45.537226,-73.495067
+531,St-Charles / Grant,45.539824,-73.508752
+532,Marché Atwater,45.480208,-73.577599
+533,Atwater / Greene,45.480495,-73.577827
+535,Leman / de Chateaubriand,45.547218,-73.631103
+537,Villeneuve / St-Laurent,45.521342,-73.589419
+538,Dollard / Van Horne,45.519153,-73.616469
+542,Parc Joyce (Rockland / Lajoie),45.515617,-73.614991
+543,Davaar / de la Côte-Ste-Catherine,45.514379,-73.610871
+544,Bloomfield / Bernard,45.520688,-73.608428
+546,Bloomfield / Van Horne,45.522586,-73.612658
+547,Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),45.510086,-73.611429
+548,Waverly / St-Zotique,45.530505,-73.614708
+549,du Mont-Royal / Augustin-Frigon,45.543763,-73.56772
+550,Drolet / Beaubien,45.533348,-73.605834
+551,Métro Beaubien (de Chateaubriand / Beaubien),45.53536,-73.603635
+552,de Bellechasse / de St-Vallier,45.53341,-73.601124
+553,Boyer / Beaubien,45.537041,-73.602026
+555,Centre ÉPIC (St-Zotique / 40e avenue),45.574147,-73.574621
+556,Chabot / Beaubien,45.544376,-73.595645
+557,Louis-Hébert / de Bellechasse,45.546661,-73.588684
+558,Molson / Beaubien,45.549686,-73.591155
+559,Beaubien / 8e avenue,45.553457,-73.587842
+561,29e avenue / St-Zotique,45.567766,-73.579688
+562,de la Roche /  de Bellechasse,45.537159,-73.597476
+563,Chabot / de Bellechasse,45.54257,-73.592144
+564,Louis-Hébert / Beaubien,45.548186,-73.59201
+565,Alexandra / Jean-Talon,45.532331,-73.620187
+566,Marché Jean-Talon (Henri-Julien / Jean-Talon),45.536785,-73.614888
+567,Bélanger / St-Denis,45.53696,-73.61199
+568,de la Roche / Bélanger,45.54167,-73.607604
+569,Boyer / Bélanger,45.54006,-73.60897
+570,de Lanaudière / Bélanger,45.543651,-73.60565
+571,Cartier / Bélanger,45.546797,-73.602664
+572,des Érables / Bélanger,45.549121,-73.600874
+573,Parc Père-Marquette (Chambord / Rosemont),45.537088,-73.593219
+574,Boyer / Jean-Talon,45.541586,-73.612481
+575,Louis-Hémon / Rosemont,45.544599,-73.588223
+576,1ère avenue / Rosemont,45.5478,-73.584867
+577,5e avenue / Rosemont,45.5499,-73.583084
+578,Marquette / des Carrières,45.538799,-73.5887
+580,Cartier / Dandurand,45.539236,-73.585946
+581,de Gaspé / Marmier,45.529686,-73.601728
+582,Fabre / St-Zotique,45.543452,-73.60101
+583,de Bordeaux / St-Zotique,45.546539,-73.598665
+584,Marmier / St-Denis,45.530871,-73.598345
+585,Louis-Hébert / St-Zotique,45.55001,-73.59576
+586,Fabre / Beaubien,45.54206,-73.597873
+587,St-Zotique / Clark,45.531401,-73.612674
+588,Parc du Pélican (2e avenue / St-Joseph),45.544513,-73.571564
+589,St-Dominique / St-Zotique,45.532265,-73.611063
+590,de Gaspé / Dante,45.534298,-73.612172
+591,Mozart / St-Laurent,45.53318,-73.61544
+592,Boyer / St-Zotique,45.53848,-73.60556
+593,de St-Vallier / St-Zotique,45.536261,-73.607546
+594,Drolet / St-Zotique,45.534882,-73.609412
+597,12e avenue / St-Zotique,45.556867,-73.589307
+598,1ère  avenue / St-Zotique,45.551937,-73.593928
+600,Jardin Botanique (Pie-IX / Sherbrooke),45.554947,-73.555295
+602,Hôpital Maisonneuve-Rosemont (Rosemont / Chatelain),45.575707,-73.561562
+604,35e avenue / Beaubien,45.570081,-73.573047
+606,de Chambly / Rachel,45.549911,-73.558263
+607,10e avenue / Masson,45.550306,-73.573353
+608,d'Orléans / Masson,45.557192,-73.569847
+611,15e avenue / Masson,45.553898,-73.571387
+613,Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),45.551584,-73.561916
+614,Omer-Lavallée / du Midway,45.545776,-73.562175
+615,Bourbonnière / du Mont-Royal,45.553571,-73.560494
+616,Cartier / Rosemont,45.541247,-73.591044
+619,St-Urbain / Beaubien,45.52951,-73.61068
+620,Ernest-Gendreau / du Mont-Royal,45.549714,-73.563848
+623,de Maisonneuve / Mansfield (nord),45.502311000000006,-73.5733635
+624,St-Jacques / McGill,45.501441,-73.560144
+625,St-Urbain / René-Lévesque,45.507838,-73.563136
+626,de Maisonneuve / Mansfield (sud),45.502145,-73.57342700000001
+627,Durocher / Bernard,45.522225,-73.606687
+628,La Ronde,45.521565,-73.535332
+629,Aylmer / Sherbrooke,45.506587,-73.573299
+630,Querbes / Laurier,45.51754,-73.597832
+631,26e avenue / Beaubien,45.564944,-73.577639
+633,Jogues / Allard,45.45002,-73.600306
+634,Mackay / Ste-Catherine,45.495709,-73.576952
+635,19e avenue / St-Zotique,45.561594,-73.585643
+636,de Maisonneuve / Greene,45.486971,-73.589293
+637,Hillside / Ste-Catherine,45.482826,-73.590843
+638,Victoria / de Maisonneuve,45.477429,-73.600169
+639,Victoria Hall,45.481291,-73.60033
+641,2e avenue / Jean-Rivard,45.562509,-73.61656
+642,Henri-Julien / de Castelnau,45.537891,-73.618215
+645,Louis-Hébert / Bélanger,45.551585,-73.599165
+646,Gary-Carter / St-Laurent,45.5359,-73.622443
+647,St-Dominique / Gounod,45.538738,-73.628022
+648,Guizot / St-Laurent,45.539663,-73.634475
+650,Drolet / Gounod,45.540951,-73.626375
+651,de Gaspé / Jarry,45.54078,-73.630401
+652,Guizot / St-Denis,45.543424,-73.632462
+653,de Gaspé / de Liège,45.542485,-73.636342
+654,du Rosaire / St-Hubert,45.544819,-73.62151
+656,de Chateaubriand / Jarry,45.545955,-73.626992
+657,de la Roche / Everett,45.544867,-73.614841
+658,Marquette / Villeray,45.550684,-73.615293
+659,St-Dominique / Jean-Talon,45.535248,-73.617564
+661,Métro St-Michel (Shaughnessy / St-Michel),45.559199,-73.599658
+663,d'Outremont / Ogilvy,45.52687,-73.626723
+664,de Normanville / Villeray,45.54717,-73.618041
+665,Lajeunesse / Villeray,45.542119,-73.622547
+669,de Bordeaux / Jean-Talon,45.549755,-73.605566
+674,Drolet / Jarry,45.541955,-73.629942
+675,Clark / de Liège,45.539984,-73.638135
+676,Boyer / Rosemont,45.534136,-73.595478
+677,Bernard / St-Urbain,45.526267,-73.603191
+680,Hôpital Santa Cabrini (St-Zotique / Jeanne-Jugan),45.579325,-73.570504
+684,Jeanne-Mance / René-Lévesque,45.506371,-73.564201
+687,Metcalfe / du Square-Dorchester,45.500208,-73.571138
+691,Métro Honoré-Beaugrand (Sherbrooke / Honoré-Beaugrand),45.596797,-73.535179
+692,Paré / Mountain Sights,45.4981,-73.652942
+693,Métro Radisson (Sherbrooke / des Groseilliers),45.589175,-73.539656
+694,Graham / Brookfield,45.520222,-73.629856
+696,Hutchison / Beaubien,45.526058,-73.612969
+699,St-Jean-Baptiste / René-Lévesque,45.641557,-73.500375
+701,du Tricentenaire / Prince-Albert,45.649546,-73.491916
+702,de Maisonneuve / Aylmer (est),45.505386,-73.570432
+703,du Souvenir / Chomedey,45.551886,-73.74444
+704,Métro Montmorency,45.558109,-73.719598
+705,Parc St-Claude (7e avenue / 8e rue),45.562668,-73.692362
+706,Métro Cartier,45.56003,-73.681336
+749,Atateken / du Square Amherst,45.5206338,-73.563906
+750,Métro Sherbrooke (de Rigaud / St-Denis),45.5179989,-73.5681841
+752,Métro Bonaventure (de la Gauchetière / de la Cathédrale),45.4983122,-73.567256
+753,Mansfield / Ste-Catherine,45.5013987,-73.5717863
+756,Notre-Dame / Jean-d'Estrées,45.4942598,-73.5638181
+757,de Gaspé / Beaubien,45.5319579,-73.607001
+759,Ann / Wellington,45.4945271,-73.5567525
+760,St-Dominique / de Bellechasse,45.5295036,-73.6048646
+761,St-Dominique / du Mont-Royal,45.5205595,-73.5858203
+762,St-Dominique / Napoléon,45.5166644,-73.5772204
+763,Métro Jean-Talon (Berri / Jean-Talon),45.5390004,-73.614251
+764,St-Dominique / Laurier,45.5236149,-73.5924574
+765,Faillon / St-Denis,45.5398641,-73.6203128
+767,de Gaspé / Villeray,45.5388872,-73.623907
+771,Métro Parc  (Hutchison / Ogilvy),45.5303513,-73.6243924
+774,Parc St-Henri (Laporte / Guay),45.4801338,-73.5859081
+775,St-Hubert / St-Joseph,45.5280879,-73.5858625
+776,de la Côte St-Antoine / Argyle,45.486241,-73.5957277
+778,Métro Jolicoeur (de Sève / Drake),45.4560855,-73.5819371
+779,de Bleury / de Maisonneuve,45.5070965,-73.5684416
+780,LaSalle / 80e avenue,45.4157687,-73.6379242
+781,Kirkfield / de Chambois,45.5129332,-73.6338902
+784,de la Côte St-Paul / St-Ambroise,45.4676657,-73.5939178
+785,des Jockeys / Décarie,45.4940443,-73.6544949
+786,LaSalle / 37e avenue,45.4163102,-73.6129159
+788,Bennett / Pierre-de-Coubertin,45.5581597,-73.5484001
+790,Métro de Castelnau (de Castelnau / St-Laurent),45.5357088,-73.6196235
+834,Graham / Wicksteed,45.5169365,-73.640483
+835,Melville / de Maisonneuve,45.4818402,-73.595379
+837,de Maisonneuve / Aylmer (ouest),45.505063,-73.5706812
+838,Drolet / Marie-Anne,45.5224026,-73.5811767
+841,de Laprairie / Centre,45.4813667,-73.5643189
+842,Graham / Kindersley,45.51405,-73.6472556
+843,Glengarry / Graham,45.50919,-73.6603206
+845,Garnier / St-Grégoire,45.5358344,-73.5870212
+846,Chabot / Villeray,45.5522894,-73.6130065
+856,Smith / Peel,-1.0,-1.0
+858,Henri-Julien / de Bellechasse,45.5295036,-73.6048646
+859,Campus MIL (Outremont / Thérèse-Lavoie Roux),45.5231722,-73.6180971
+860,Parc Jean-Drapeau (Chemin Macdonald),45.5128006,-73.5311159
+864,Métro Villa-Maria (de Monkland / Décarie),45.4789684,-73.6195993
+865,Jeanne-Mance / Laurier,45.5201249,-73.5952138
+866,des Ormeaux / Notre-Dame,45.5992655,-73.5122607
+869,Christophe-Colomb / St-Joseph,45.5303649,-73.5843927
+876,Plessis / Logan,45.5217675,-73.5571025
+884,de Castelnau / Lajeunesse,45.5403962,-73.6168179
+886,Fullum / Holt,45.5439195,-73.5842489
+887,3e avenue / Holt,45.5480035,-73.5813899
+888,Mozart / Waverly,45.5315651,-73.6169464
+890,Boucher / St-Denis,45.5278492,-73.5918613
+891,5e avenue / Masson,45.5475583,-73.5754719
+892,des Érables / Dandurand,45.5413694,-73.583974
+895,Bloomfield / Jean-Talon,45.5274603,-73.6241752
+898,Louis-Hémon / Jean-Talon,45.5517743,-73.6034784
+901,Notre-Dame-de-Grâce / Westmount,45.4804701,-73.6112161
+903,Sherbrooke / Vignal,45.4898298,-73.5896777
+906,Parc Ludger-Duvernay (St-André / St-Hubert),45.5314746,-73.5924205
+908,Lajeunesse / de Liège,45.5455805,-73.6349
+910,Fullum / Marie-Anne,45.5365054,-73.5680392
+911,Rose-de-Lima / Workman,45.4802642,-73.5809936
+912,Grey / Sherbrooke,45.4763443,-73.6062594
+913,Parc Benny (Benny / de Monkland),45.4669357,-73.6315311
+914,Earnscliffe / Queen-Mary,45.4818451,-73.6303738
+915,McLynn / Plamondon,45.4891131,-73.6470129
+916,St-Cyril / Wiseman,45.5208548,-73.6157396
+917,Boyer / Everett,45.5432845,-73.6162861
+919,des Récollets / McGill,45.5008765,-73.5590056
+921,Fullum / de Rouen,45.5321322,-73.5587601
+922,Aréna Rodrigue-Gilbert (du Tricentenaire / de Montigny),45.6514058,-73.5004127
+923,Fullum / Ontario,45.5303174,-73.5548669
+925,la Fontaine / Alexandre-de-Sève,45.5233037,-73.5579997
+926,Cégep Marie-Victorin,45.6174998,-73.6060113
+927,Hôpital Sacré-Coeur (Forbes),45.5319436,-73.7136054
+928,Place Rodolphe-Rousseau (Gohier / Édouard-Laurin),45.5129939,-73.6824985
+929,Molson / William-Tremblay,45.5415485,-73.5650124
+930,Messier / St-Joseph,45.5394606,-73.5760564
+931,Ateliers municipaux de St-Laurent (Cavendish / Poirier),45.5061758,-73.7111861
+932,Centre des loisirs (Tassé / Grenet),45.5147343,-73.691449
+934,McKenna / Édouard-Montpetit,45.5011651,-73.6205475
+935,St-Catherine / St-Laurent,45.5099315,-73.5638067
+936,Du Quesne / Pierre-de-Coubertin,45.5750536,-73.5389322
+937,Ste-Claire / Pierre-Tétreault,45.6019133,-73.5244185
+938,Richmond / des Bassins,45.4875216,-73.565003
+941,André-Laurendeau / Rachel,45.5428981,-73.561846
+942,des Érables / Laurier,45.5384608,-73.5776791
+943,Clark / St-Viateur,45.5251603,-73.5992467
+944,Robin / 15e rue,45.5594955,-73.6989176
+945,Legrand / Cartier,45.552298,-73.7073827
+946,Parc nature de l'Île-de-la-Visitation (Gouin / de Bruchési),45.5783318,-73.655954
+948,Parc Henri-Julien (Legendre / Henri-Julien),45.5460356,-73.6465985
+950,Place d'Youville / McGill,45.4999647,-73.5561544
+954,Ste-Catherine / Union,45.5036663,-73.5695761
+955,St-Christophe / René-Lévesque,45.5149464,-73.5562329
+956,Parc de Dieppe,45.5018635,-73.543961
+958,Panet / Ste-Catherine,45.5199567,-73.5548166
+961,Terminus Newman (Airlie / Lafleur),45.4250597,-73.6495992
+962,2e avenue / Centrale,45.4328944,-73.5968529
+963,Travaux publics LaSalle (Cordner / Léger),45.4452719,-73.6244836
+964,Lapierre / Serge,45.4385441,-73.6202163
+965,Brittany / Ainsley,45.5258899,-73.6500344
+966,Gloria / Dollard,45.429711,-73.6338834
+971,Parc Loyola (Somerled / Doherty),45.460023,-73.644442
+972,Parc Van Horne (de la Peltrie / de Westbury),45.4904723,-73.6385324
+974,Parc de la Confédération (Fielding / West Hill),45.471882,-73.6400217
+976,REV (Souligny / Desmarteau),45.6046208,-73.5159963
+979,des Ormeaux / de Grosbois,45.6059017,-73.5343695
+980,Champdoré / de Lorimier,45.5668693,-73.6410168
+983,Egan / Laurendeau,45.4528579,-73.5892488
+984,Dorion / Rachel,45.531634,-73.5682458
+985,Parc Villeray (Christophe-Colomb / Jarry),45.5480925,-73.624261
+986,de Léry / Sherbrooke,45.5409997,-73.5582626
+987,St-Charles / Thomas-Keefer,45.477605,-73.573775
+988,Monsabré / Boileau,45.5717982,-73.5415497
+989,Parc Georges St-Pierre (Oxford / Upper Lachine),45.4689119,-73.6095089
+993,de Grosbois / Duchesneau,45.6112307,-73.5312416
+994,Parc Labelle (LaSalle / Henri-Duhamel),45.472561,-73.5699892
+995,8e avenue / Everett,45.5648113,-73.5958041
+996,Lacombe / Victoria,45.490628,-73.628878
+997,Parc MacDonald (Clanranald / Isabella),45.4826927,-73.6348128
+998,St-Ambroise / Louis-Cyr,45.4751933,-73.5809433
+999,Parc de Beauséjour (Gouin / Henri-d'Arles),45.526765,-73.730423
+1000,Parc Champdoré (Champdoré / de Lille),45.5691762,-73.6362934
+1004,Stinson / Montpellier,45.5040143,-73.7044269
+1006,Place du Canada (Peel / de la Gauchetière),45.4984678,-73.5684335
+1007,Aylmer / Ste-Catherine,45.5043468,-73.5689485
+1008,Ste-Catherine / Parthenais,45.5262351,-73.54895
+1009,de Lanaudière / du Mont-Royal,45.5302211,-73.5769965
+1010,Métro Pie-IX (Pierre-de-Coubertin / de la Salle),45.5552411,-73.5508221
+1016,Parc Howard (de l'Épée / de Liège),45.5616903,-73.610512
+1017,Sabrevois / des Récollets,45.5832879,-73.6327636
+1020,Parc Maisonneuve (Viau / Sherbrooke),45.5649368,-73.5555911
+1024,6e avenue / Bélanger,45.5545638,-73.5961568
+1025,Marquette / Gilford,45.5338507,-73.5789116
+1026,Duchesneau / de Marseille,45.6096263,-73.522739
+1027,St-Antoine / de la Montagne,45.4953717,-73.5685891
+1033,Parc Baldwin (Fullum / Sherbrooke),45.5340705,-73.5626507
+1034,Parc Père-Marquette (de Lanaudière / de Bellechasse),45.539324,-73.5958784
+1038,Parc Marlborough (Beauzèle / Robichaud),45.5223415,-73.7216789
+1040,Parc Reine-Élizabeth (Penniston / Crawford),45.4391447,-73.5917366
+1041,Parc du Pélican (1ère avenue / Masson),45.5451997,-73.5764507
+1044,Gilford / des Érables,45.5375266,-73.5751244
+1048,41e avenue / Victoria,45.440347,-73.7023133
+1050,Parc Ivan-Franko (33e avenue / Victoria),45.43746,-73.6935318
+1053,Pratt / Bates,45.5169478,-73.6263156
+1054,McCulloch / de la Côte Ste-Catherine,45.5157751,-73.6006093
+1055,Parc Sauvé (Balzac / de Bayonne),45.5990861,-73.6369479
+1056,Ste-Catherine / Sanguinet,45.5128938,-73.5612479
+1057,de Côme / Jean-Talon,45.588303,-73.5778372
+1062,Beurling / Godin,45.4479158,-73.5838187
+1068,Métro Fabre (Marquette / Jean-Talon),45.5474078,-73.6076689
+1070,Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),45.5082046,-73.5688144
+1071,Letourneux / Ste-Catherine,45.5507836,-73.5341
+1072,Métro Jarry (Lajeunesse / Jarry),45.5435597,-73.627772
+1073,Gilford / St-Denis,45.5251147,-73.586006
+1076,Durocher / Beaumont,45.5280002,-73.6192358
+1077,Marie-Anne / Papineau,45.5317737,-73.5724462
+1082,Péloquin / Fleury,45.5570222,-73.6599016
+1086,Parc Chopin (Dumouchel / Tessier),45.5707266,-73.737086
+1087,27e avenue / Rosemont,45.5636787,-73.5716045
+1091,Durocher / St-Viateur,45.5207958,-73.6032707
+1095,Langelier / Marie-Victorin,45.6145192,-73.6122447
+1096,Drummond / Sherbrooke,45.5003924,-73.578168
+1101,de Rouen / Lespérance,45.5386271,-73.5528392
+1103,Parc Wilfrid-Bastien (Lacordaire / des Galets),45.5864002,-73.5952181
+1104,Parc Delorme (Malouin / Laferté),45.5904902,-73.5902694
+1105,Parc St-Laurent (Salk / Thomas-Chapais),45.6062348,-73.6287838
+1107,Parc Beaulac (rue Élizabeth),45.5200557,-73.6779515
+1108,CHSLD St-Michel (8e avenue / Jarry),45.5616903,-73.610512
+1109,Mairie d'arrondissement Montréal-Nord (Hébert / de Charleroi),45.593985,-73.6376721
+1110,Parc Luigi-Pirandello (de Bretagne / Jean-Rivard),45.5794057,-73.6025888
+1111,Parc LaSalle (10e avenue / Victoria),45.4380555,-73.6727393
+1112,Parc Stoney-Point (St-Joseph / 47e avenue),45.4365683,-73.7083697
+1114,Bibliothèque Jean-Corbeil (Goncourt / Place Montrichard),45.6027276,-73.5579303
+1115,Aréna Chaumont (Chaumont / des Ormeaux),45.6109266,-73.5467345
+1116,Parc Chamberland (Dorais / de l'Église),45.502989,-73.689113
+1117,Parc Noel-Nord (Toupin / Keller),45.5175831,-73.7266141
+1118,Parc du Bois-Franc (de l'Équateur / des Andes),45.5131776,-73.7130609
+1119,Parc Grovehill (St-Antoine / Ivan-Franko),45.4398238,-73.6948782
+1120,Parc Kirkland (des Érables / Boyer),45.4460609,-73.6507995
+1121,Parc Painter (Marcotte / Quenneville),45.5286305,-73.6773124
+1123,Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),45.5534001,-73.6622545
+1124,La Tour de Montréal (Pierre-de-Coubertin / Bennett),45.5597053,-73.5515544
+1125,CCI Outremont (Dollard / Durcharme),45.5200191,-73.6189073
+1128,Parc Summerlea (53e avenue / St-Joseph),45.4383671,-73.7154669
+1132,Parc Ottawa (de Belleville / Fleury),45.58116,-73.6412434
+1136,Terminus Le Carrefour (Terry-Fox / Le Carrefour),45.5684203,-73.7468728
+1137,Métro Lionel-Groulx (St-Jacques / Atwater),45.4836285,-73.5797026
+1139,CHU Ste-Justine (de la Côte Ste-Catherine / Hudson),45.5039817,-73.6228395
+1140,Parc St-Laurent (Dutrisac),45.5259138,-73.6891115
+1142,Parc St-Louis (St-Joseph / 34e avenue),45.4328398,-73.6934915
+1147,Fullum / Terrasse Mercure,45.5354834,-73.5659391
+1149,Letourneux / Hochelaga,45.5546589,-73.546603
+1150,Chambord/ Beaubien,45.5399002,-73.5993621
+1152,19e avenue / St-Antoine,45.4397787,-73.6813706
+1153,de la Peltrie / de la Côte-des-Neiges,45.4997974,-73.6301753
+1156,Everett / Garnier,45.5475815,-73.6122085
+1157,Michelet / Jean-Talon,45.5762911,-73.583529
+1158,Parc Ferland (Belleherbe / Albanel),45.595768,-73.5953039
+1159,Place du Village (St-Jean-Baptiste / Notre-Dame),45.6400029,-73.490113
+1160,Monk / Biencourt,45.4586632,-73.5960227
+1161,Durocher / Sherbrooke,45.5070762,-73.5722852
+1162,Beaudry / Ontario,45.5214582,-73.5620499
+1164,Bennett / Adam,45.5536514,-73.5341495
+1165,Cégep André-Laurendeau (Lapierre),45.4360551,-73.6057752
+1166,Mairie d'arrondissement LaSalle (Dupras / Jeannette),45.429167,-73.6628097
+1167,Dixie / 54e avenue,45.4433803,-73.7178916
+1169,Alexandre-DeSève  / Ontario,45.5243588,-73.5605344
+1170,Bloomfied / St-Viateur,45.5191037,-73.6051905
+1171,Parc Félix-Leclerc (François-Boivin / St-Zotique),45.591455,-73.5627553
+1173,Métro de la Concorde (Léo-Lacombe),45.5604899,-73.7091851
+1174,Parc Henri-Dunant (Léger / Henri-Dunant),45.5684396,-73.6752021
+1175,du Parc-Lafontaine / Rachel,45.5254742,-73.5743251
+1176,Bloomfield / Ball,45.5299594,-73.632946
+1178,Marché Jean-Talon (Casgrain / Shamrock),45.5351901,-73.6154822
+1179,de l'Hôtel-de-Ville / Ontario,45.5135916,-73.5662556
+1180,Chambord / de Castelnau,45.5453692,-73.6117625
+1181,Union / Ste-Catherine,45.5040272,-73.5697022
+1182,Peel / Ottawa,45.4941996,-73.5599846
+1183,HEC (Decelles / Jean-Brillant),45.4977228,-73.6192533
+1185,Wolfe / de la Gauchetière,45.5162224,-73.5529733
+1186,Bassin olympique (Chemin du Chenal le Moyne),45.5169025,-73.5272455
+1190,Louisbourg / O'brien,45.5306042,-73.70377
+1193,St-Joseph Lachine / 21e avenue,45.4335212,-73.6835432
+1194,St-Rémi / Ste Émilie,45.4697664,-73.5892588
+1196,de Versailles / St-Jacques,45.4927744,-73.5688573
+1198,de Mentana / St-Joseph,45.529107,-73.584803
+1199,St-Denis / Ste-Catherine,45.5137229,-73.5603105
+1200,de Châteauguay / Ropery,45.4793011,-73.5662945
+1201,Parc de l'Hôtel-de-Ville (Laurendeau / Ste-Julie),45.6308738,-73.4950389
+1202,Parc des Vétérans (des Vétérans / Broadway),45.6315812,-73.5079604
+1203,Centre récréatif Édouard-Rivet (Lesage / Notre-Dame),45.6283593,-73.5000479
+1205,Bibliothèque et Complexe aquatique Rosemont (9e avenue / Rosemont),45.5520234,-73.5817184
+1206,Parc Chenier (de l'Aréna / Chenier),45.6024865,-73.5432905
+1214,René-Lévesque / Papineau,45.5209208,-73.5499048
+1215,6e avenue / Villeray,45.5587396,-73.6058904
+1216,Parc Lalancette (de Rouen / Valois),45.548145,-73.5471261
+1217,Métro Laurier (Berri / Laurier),45.5275891,-73.5890758
+1218,Métro Viau (Viau / Pierre-de-Coubertin),45.5630842,-73.5481941
+1219,Guy / Sainte-Catherine,45.4949751,-73.5777704
+1220,Dorion / Sherbrooke,45.5293521,-73.5633184
+1221,Parc Joseph-Robin (18e avenue / Everett),45.5648113,-73.5958041
+1222,Mayfield / St-Martin O,45.5530175,-73.7582266
+1223,de Chenonceau / Chomedey,45.56157,-73.75448
+1224,Gare Montpellier (Muir / de la Côte-Vertu),45.5237405,-73.6716992
+1225,Gare du Ruisseau (Dutrisac / Henri-Bourassa),45.5281437,-73.6925454
+1226,Parc Nicolas-Tillemont (des Érables / Villeray),45.5546365,-73.6125522
+1227,CHSLD Robert Cliche (de Bellechasse / 16e avenue),45.557568,-73.579191
+1228,11e avenue / du Souvenir,45.5693391,-73.7047273
+1229,Parc du Mail (Bois de Coulonges / du Mail),45.598335,-73.5459673
+1230,Fabrik8 (Waverly / Jean-Talon),45.5333073,-73.6208224
+1231,Parc Beaubien Outremont (Stuart / St-Viateur),45.5159697,-73.6082751
+1232,Parc Olympique (Pie-IX / Sherbrooke),45.5548245,-73.5537028
+1233,Parc Hébert (Colbert / Provencher),45.5723781,-73.5937046
+1234,Parc Courbertin (Valéry / Perrier),45.5839877,-73.6080933
+1235,Parc Garibaldi (Liénart / Bélanger),45.5864765,-73.5703969
+1236,Alton-Goldbloom / Notre-Dame,45.545026,-73.7378767
+1237,Parc Charleroi (Alfred / Louis-Francoeur),45.5995347,-73.6236025
+1238,Parc Aimé-Léonard (Gouin / Ste-Gertrude),45.6083582,-73.6385062
+1239,Parc Maurice-Bélanger (Hébert / Denommée),45.5877138,-73.6317182
+1240,CÉGEP du Vieux-Montréal (Ontario / de l'Hôtel-de-Ville),45.5140122,-73.5659867
+1241,Complexe sportif Claude Robillard (Émile-Journault),45.5529855,-73.6386477
+1242,Gare St-Michel / Montréal-Nord (Pie-IX / 56e),45.5831978,-73.629787
+1243,IUSMM (Georges-Villeneuve),45.5865659,-73.5293725
+1244,Parc Eusèbe-Ménard (Gouin / St-Vital),45.5925395,-73.6487482
+1245,CHSLD Joseph-François-Perrault (St-Michel / Everett),45.5596973,-73.6014596
+1246,Mairie d'arrondissement St-Laurent (Beaudet / Marcel-Laurin),45.5068242,-73.681848
+1247,Bibliothèque du Vieux-St-Laurent (de l'Église / Filiatrault),45.5128433,-73.6761242
+1248,Métro St-Laurent 2 ( de Maisonneuve / St-Laurent),45.5107698,-73.5649373
+1249,du Mans / des Alouettes,45.5803349,-73.6847187
+1250,Pierre-Péladeau / du Centropolis,45.5625118,-73.7437065
+1251,Jeanne-Mance / St-Martin O,45.5574215,-73.7480604
+1252,Parc Armand-Bombardier (Perras / Armand-Bombardier),45.6391233,-73.5961118
+1254,Collège de Rosemont (15e avenue / Beaubien),45.5577499,-73.5838012
+1255,Le Corbusier / St-Martin O,45.5650067,-73.7319054
+1256,Métro Cadillac (Cadillac / Sherbrooke),45.5768333,-73.5464742
+1257,McNamara / St-Martin O,45.5712036,-73.7235188
+1258,de Grenoble / de Cassis,45.5788972,-73.7049271
+1260,Berri /Ste-Catherine,45.5146906,-73.5599014
+1261,Préfontaine / Marcel-Pépin,45.5436538,-73.5594206
+1263,de la Roche / Marie-Anne,45.52766,-73.576124
+1264,Soeurs-Grises / Margueritte d'Youville,45.4988464,-73.5546298
+1267,St-Hubert / de Maisonneuve (nord),45.5161321,-73.5604969
+1268,St-Hubert / de Maisonneuve (sud),45.5158684,-73.5600838
+1269,Hochelaga / de l'Assomption,45.5668831,-73.5394382
+1270,de Brébeuf / Gilford,45.530952,-73.581585
+1271,Métro Plamondon (Carlton / Victoria),45.4953008,-73.6394939
+1272,de Chambly / de Rouen,45.5471031,-73.5489245
+1273,Montmorency / Richardson,45.4851133,-73.5604384
+1275,de Maisonneuve / Mansfield SE,45.5022935,-73.5733064
+1276,BAnQ (Berri),45.5160139,-73.5629196
+1277,de Bellechasse / Pie-IX,45.5612927,-73.5761133
+1278,Parc Jeanne-Mance (monument à sir George-Étienne Cartier),45.5148664,-73.5847586
+1279,Place des Festivals ( du Président-Kennedy / de Bleury),45.5076439,-73.569324
+1280,Parc Ernest-Rouleau (Gouin),45.6313127,-73.616315
+1281,St-Laurent / St-Jacques,45.5064957,-73.556494
+1282,Hôpital Général Juif (de la Côte-Ste-Catherine / Légaré),45.4962414,-73.6298387
+1283,Irene / St-Jacques,45.480133,-73.5839313
+1284,Ste-Catherine / Bishop,45.4966367,-73.5761287
+1285,Delisle / George-Vanier,45.485974,-73.5728323
+1286,Evans / Clark,45.5110837,-73.5679775
+1287,Duluth  / St-Denis,45.5208024,-73.5757989
+1288,St-Marc / Ste-Catherine,45.4928566,-73.5806543
+1290,de l'Hôtel-de-Ville / Villeneuve,45.5234808,-73.5873276
+1291,St-Mathieu / Baile,45.4928904,-73.5776126
+1292,d'Iberville / Fleury,45.5754318,-73.6474305
+1293,Square Viger (Berri / Viger),45.5122121,-73.5546289
+1294,Bordeaux / Mont-Royal,45.5345836,-73.5731596
+1295,Keller / Cousineau,45.5235502,-73.7138857
+1296,Métro Beaudry (Beaudry / Ste-Catherine),45.5188845,-73.5559385
+1297,Gare Lachine (Sir George Simpson / 48e avenue),45.4478213,-73.7109178
+1298,Square Nelligan (des Appalaches / Alexis-Nihon),45.5143182,-73.7079982
+1299,Grenet / Poirier,45.5187192,-73.698754
+1300,Duluth  / St-Denis,45.5208024,-73.5757989
