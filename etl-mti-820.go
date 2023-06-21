@@ -92,6 +92,6 @@ func main() {
 		fmt.Println("parametre 2 = table de destination")
 		fmt.Println("parametre 3 = Base de donnée")
 		fmt.Println("parametre 4 = fichier csv source")
-		fmt.Println("")
+		fmt.Println("-")
 	}
 }
